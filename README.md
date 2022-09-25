@@ -1,2 +1,2 @@
-# SimpleJoysctick
-my free simple joystick package for unity.
+# Simple Joysctick
+My free simple joystick package for unity.

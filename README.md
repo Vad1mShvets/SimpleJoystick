@@ -1,2 +1,3 @@
 # Simple Joysctick
-My free simple joystick package for unity.
+Simple joystick package for unity.
+by Vadim Shvets.
